@@ -1,0 +1,4 @@
+port: 4242
+database: chat.db
+secret_key: 6MfxzEEr6Cfzy3Kw7$*GwC3Dvs^TR#r#wdsW3xC#4HMnyp3YVgbVHpNZR5g3
+delete_old_db: false
